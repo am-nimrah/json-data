@@ -1,0 +1,169 @@
+{
+  "categories": [
+    {
+      "name": "Dairy",
+      "description": "A variety of dairy products including milk, cheese, and yogurt.",
+      "moreData": "Dairy products are a great source of calcium, protein, and other essential nutrients. Choose low-fat or non-fat options for a healthier diet.",
+      "items": [
+        {
+          "itemName": "Whole Milk",
+          "price": 3.99,
+          "rating": 4
+        },
+        {
+          "itemName": "Cheddar Cheese",
+          "price": 5.49,
+          "rating": 5
+        },
+        {
+          "itemName": "Greek Yogurt",
+          "price": 6.29,
+          "rating": 4
+        },
+        {
+          "itemName": "Cottage Cheese",
+          "price": 3.79,
+          "rating": 4
+        },
+        {
+          "itemName": "Mozzarella Cheese",
+          "price": 4.99,
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Fruits",
+      "description": "Fresh and organic fruits like apples, oranges, and berries.",
+      "moreData": "Fruits are packed with vitamins, minerals, and fiber. Aim for a variety of colors and types for a balanced diet.",
+      "items": [
+        {
+          "itemName": "Apple",
+          "price": 1.50,
+          "rating": 4
+        },
+        {
+          "itemName": "Orange",
+          "price": 1.25,
+          "rating": 3
+        },
+        {
+          "itemName": "Banana",
+          "price": 0.75,
+          "rating": 5
+        },
+        {
+          "itemName": "Blueberries",
+          "price": 3.99,
+          "rating": 5
+        },
+        {
+          "itemName": "Strawberries",
+          "price": 4.99,
+          "rating": 4
+        },
+        {
+          "itemName": "Mango",
+          "price": 2.99,
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Grains",
+      "description": "Whole grains and cereals for a healthy diet.",
+      "moreData": "Whole grains are an excellent source of fiber, vitamins, and minerals. They can help reduce the risk of chronic diseases.",
+      "items": [
+        {
+          "itemName": "Brown Rice",
+          "price": 2.99,
+          "rating": 4
+        },
+        {
+          "itemName": "Oats",
+          "price": 3.50,
+          "rating": 3
+        },
+        {
+          "itemName": "Quinoa",
+          "price": 4.75,
+          "rating": 5
+        },
+        {
+          "itemName": "Whole Wheat Bread",
+          "price": 3.49,
+          "rating": 4
+        },
+        {
+          "itemName": "Barley",
+          "price": 2.75,
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "name": "Herbs & Spices",
+      "description": "Enhance your dishes with these flavorful herbs and spices.",
+      "moreData": "Herbs and spices can add a burst of flavor to your meals without adding extra calories or salt. Experiment with different blends to find your favorites.",
+      "items": [
+        {
+          "itemName": "Basil",
+          "price": 1.99,
+          "rating": 4
+        },
+        {
+          "itemName": "Cinnamon",
+          "price": 2.49,
+          "rating": 5
+        },
+        {
+          "itemName": "Oregano",
+          "price": 2.25,
+          "rating": 3
+        },
+        {
+          "itemName": "Paprika",
+          "price": 1.79,
+          "rating": 4
+        },
+        {
+          "itemName": "Thyme",
+          "price": 2.19,
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "name": "Honey",
+      "description": "Natural sweetener, perfect for tea or as a sugar substitute.",
+      "moreData": "Honey is a natural sweetener with antioxidant properties. Use it in moderation as a healthier alternative to refined sugars.",
+      "items": [
+        {
+          "itemName": "Raw Honey",
+          "price": 9.99,
+          "rating": 4
+        },
+        {
+          "itemName": "Manuka Honey",
+          "price": 19.99,
+          "rating": 5
+        },
+        {
+          "itemName": "Wildflower Honey",
+          "price": 12.99,
+          "rating": 4
+        },
+        {
+          "itemName": "Clover Honey",
+          "price": 7.99,
+          "rating": 4
+        },
+        {
+          "itemName": "Honeycomb",
+          "price": 14.99,
+          "rating": 5
+        }
+      ]
+    }
+  ]
+}
