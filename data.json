@@ -8,27 +8,32 @@
         {
           "itemName": "Whole Milk",
           "price": 3.99,
-          "rating": 4
+          "rating": 4,
+          "imageUrl": "https://example.com/images/whole_milk.jpg" // Placeholder URL
         },
         {
           "itemName": "Cheddar Cheese",
           "price": 5.49,
-          "rating": 5
+          "rating": 5,
+          "imageUrl": "https://example.com/images/cheddar_cheese.jpg" // Placeholder URL
         },
         {
           "itemName": "Greek Yogurt",
           "price": 6.29,
-          "rating": 4
+          "rating": 4,
+          "imageUrl": "https://example.com/images/greek_yogurt.jpg" // Placeholder URL
         },
         {
           "itemName": "Cottage Cheese",
           "price": 3.79,
-          "rating": 4
+          "rating": 4,
+          "imageUrl": "https://example.com/images/cottage_cheese.jpg" // Placeholder URL
         },
         {
           "itemName": "Mozzarella Cheese",
           "price": 4.99,
-          "rating": 5
+          "rating": 5,
+          "imageUrl": "https://example.com/images/mozzarella_cheese.jpg" // Placeholder URL
         }
       ]
     },
@@ -40,32 +45,38 @@
         {
           "itemName": "Apple",
           "price": 1.50,
-          "rating": 4
+          "rating": 4,
+          "imageUrl": "https://example.com/images/apple.jpg" // Placeholder URL
         },
         {
           "itemName": "Orange",
           "price": 1.25,
-          "rating": 3
+          "rating": 3,
+          "imageUrl": "https://example.com/images/orange.jpg" // Placeholder URL
         },
         {
           "itemName": "Banana",
           "price": 0.75,
-          "rating": 5
+          "rating": 5,
+          "imageUrl": "https://example.com/images/banana.jpg" // Placeholder URL
         },
         {
           "itemName": "Blueberries",
           "price": 3.99,
-          "rating": 5
+          "rating": 5,
+          "imageUrl": "https://example.com/images/blueberries.jpg" // Placeholder URL
         },
         {
           "itemName": "Strawberries",
           "price": 4.99,
-          "rating": 4
+          "rating": 4,
+          "imageUrl": "https://example.com/images/strawberries.jpg" // Placeholder URL
         },
         {
           "itemName": "Mango",
           "price": 2.99,
-          "rating": 5
+          "rating": 5,
+          "imageUrl": "https://example.com/images/mango.jpg" // Placeholder URL
         }
       ]
     },
@@ -77,27 +88,32 @@
         {
           "itemName": "Brown Rice",
           "price": 2.99,
-          "rating": 4
+          "rating": 4,
+          "imageUrl": "https://example.com/images/brown_rice.jpg" // Placeholder URL
         },
         {
           "itemName": "Oats",
           "price": 3.50,
-          "rating": 3
+          "rating": 3,
+          "imageUrl": "https://example.com/images/oats.jpg" // Placeholder URL
         },
         {
           "itemName": "Quinoa",
           "price": 4.75,
-          "rating": 5
+          "rating": 5,
+          "imageUrl": "https://example.com/images/quinoa.jpg" // Placeholder URL
         },
         {
           "itemName": "Whole Wheat Bread",
           "price": 3.49,
-          "rating": 4
+          "rating": 4,
+          "imageUrl": "https://example.com/images/whole_wheat_bread.jpg" // Placeholder URL
         },
         {
           "itemName": "Barley",
           "price": 2.75,
-          "rating": 3
+          "rating": 3,
+          "imageUrl": "https://example.com/images/barley.jpg" // Placeholder URL
         }
       ]
     },
@@ -109,27 +125,32 @@
         {
           "itemName": "Basil",
           "price": 1.99,
-          "rating": 4
+          "rating": 4,
+          "imageUrl": "https://example.com/images/basil.jpg" // Placeholder URL
         },
         {
           "itemName": "Cinnamon",
           "price": 2.49,
-          "rating": 5
+          "rating": 5,
+          "imageUrl": "https://example.com/images/cinnamon.jpg" // Placeholder URL
         },
         {
           "itemName": "Oregano",
           "price": 2.25,
-          "rating": 3
+          "rating": 3,
+          "imageUrl": "https://example.com/images/oregano.jpg" // Placeholder URL
         },
         {
           "itemName": "Paprika",
           "price": 1.79,
-          "rating": 4
+          "rating": 4,
+          "imageUrl": "https://example.com/images/paprika.jpg" // Placeholder URL
         },
         {
           "itemName": "Thyme",
           "price": 2.19,
-          "rating": 3
+          "rating": 3,
+          "imageUrl": "https://example.com/images/thyme.jpg" // Placeholder URL
         }
       ]
     },
@@ -141,27 +162,32 @@
         {
           "itemName": "Raw Honey",
           "price": 9.99,
-          "rating": 4
+          "rating": 4,
+          "imageUrl": "https://example.com/images/raw_honey.jpg" // Placeholder URL
         },
         {
           "itemName": "Manuka Honey",
           "price": 19.99,
-          "rating": 5
+          "rating": 5,
+          "imageUrl": "https://example.com/images/manuka_honey.jpg" // Placeholder URL
         },
         {
           "itemName": "Wildflower Honey",
           "price": 12.99,
-          "rating": 4
+          "rating": 4,
+          "imageUrl": "https://example.com/images/wildflower_honey.jpg" // Placeholder URL
         },
         {
           "itemName": "Clover Honey",
           "price": 7.99,
-          "rating": 4
+          "rating": 4,
+          "imageUrl": "https://example.com/images/clover_honey.jpg" // Placeholder URL
         },
         {
           "itemName": "Honeycomb",
           "price": 14.99,
-          "rating": 5
+          "rating": 5,
+          "imageUrl": "https://example.com/images/honeycomb.jpg" // Placeholder URL
         }
       ]
     }
